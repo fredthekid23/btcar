@@ -12,7 +12,9 @@ Each control from the remote will be mapped to a character which will be
 sent to the car through bluetooth
 
 CONTROLS:
+
 Potentiometer: Controls the steering
+
 Photoresistor: Speed of the car
 
 for both controls need to figure out:
