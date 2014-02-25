@@ -1,5 +1,5 @@
 Trivial Bluetooth Controlled Car
-
+====
 Description:
 2 Arduinos will be used in this project, one for the remote and one attached
 to the car. The arduino on the remote will be used to transfer data 
