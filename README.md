@@ -14,7 +14,7 @@ sent to the car through bluetooth
 
 CONTROLS:
 Potentiometer: Controls the steering 
-===
+=
 Photoresistor: Speed of the car
 
 for both controls need to figure out:
